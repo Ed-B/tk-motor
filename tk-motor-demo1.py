@@ -127,10 +127,3 @@ class demoGUI(Frame):
 app = demoGUI()
 app.mainloop()
 
-
-        GPIO.setmode(GPIO.BCM)
-        GPIO.setup(4, GPIO.OUT)
-
-
-        GPIO.output(4, GPIO.HIGH)
-        GPIO.output(4, GPIO.LOW)
