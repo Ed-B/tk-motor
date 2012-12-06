@@ -1,0 +1,3 @@
+http://oreilly.com/pub/a/oreilly/ask_tim/2001/codepolicy.html
+
+You can use and redistribute example code from our books for any non-commercial purpose (and most commercial purposes) as long as you acknowledge their source and authorship. The source of the code should be noted in any documentation as well as in the program code itself (as a comment). The attribution should include author, title, publisher, and ISBN.
